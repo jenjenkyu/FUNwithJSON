@@ -69,7 +69,7 @@ def delete():
 def add():
 	name = input("name: ")
 	age = input("age: ")
-	F_color = input("favorite movie: ")
+	F_color = input("favorite color: ")
 	F_movie = input("favorite movie: ")
 	mobileN= input("mobile number: ")
 	motto= input("motto: ")
